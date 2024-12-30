@@ -1,0 +1,2 @@
+GET https://raw.githubusercontent.com/fullstack-hy2020/misc/master/blogs_for_test.md
+Content-Type: application/json
